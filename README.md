@@ -9,17 +9,21 @@ Usage Instructions
 
 2. After entering the initial player information, the program displays a menu with the following options:
 
-a - Add player: Allows the user to add a new player to the roster by entering their jersey number and rating.
+  a - Add player: Allows the user to add a new player to the roster by entering their jersey
+  number and rating.
 
-d - Remove player: Enables the user to remove a player from the roster by entering their jersey number.
+  d - Remove player: Enables the user to remove a player from the roster by entering their jersey
+  number.
 
-u - Update player rating: Allows the user to update the rating of a player by entering their jersey number and the new rating.
+  u - Update player rating: Allows the user to update the rating of a player by entering their
+  jersey number and the new rating.
 
-r - Output players above a rating: Displays players whose rating is above a specified threshold, which the user can input.
+  r - Output players above a rating: Displays players whose rating is above a specified threshold,
+  which the user can input.
 
-o - Output roster: Displays the current soccer team roster.
+  o - Output roster: Displays the current soccer team roster.
 
-q - Quit: Exits the program.
+  q - Quit: Exits the program.
 
 3. The user can choose an option by entering the corresponding character. The program will execute the chosen action, and the user can continue using the menu until they choose to quit.
 
